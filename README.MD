@@ -31,6 +31,7 @@ Method POST : EDIT user
 
 Click Send.
 ------------
+Image for use POSTMAN in folder : image_tutorial. 
 FINISH
 
 
